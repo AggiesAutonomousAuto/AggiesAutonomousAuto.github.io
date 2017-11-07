@@ -5,20 +5,28 @@ category: News
 title: Aggies Autonomous Auto thanks our generous sponsors
 description: |
 ---
-### Gold-Level Sponsors
+### Competiton Organizing Sponsors
 - SAE International
 - General Motors
+
+### Official Sponsors
 - Intel
-- Altair
 - Continental Automotive Systems
-- HERE Technologies
 - MathWorks
-- NovAtel
 - Velodyne
+
+### Silver Sponsors
+- Altair
+- HERE Technologies
+- NovAtel
+- Kistler
+- MSC Software
+- OxTS
+- ZF Group
+
+### A3 Sponsors
+- Imaging Source
+- GitHub Education
 - North Carolina A&T State University
 - NCAT ACCESS Laboratory
 - NCAT TECHLAV
-
-### Silver-Level Sponsors
-- Imaging Source
-- GitHub Education
