@@ -1,0 +1,10 @@
+---
+layout: default
+img: gm.png
+category: News
+title: GM and SAE International Select 8 North American Universities for New Autonomous Vehicle Competition
+description: |
+---
+This new autonomous vehicle design competition is a three-year challenge to develop and demonstrate a fully autonomous passenger vehicle. The competition’s technical goal is navigating an urban driving course in an automated driving mode as described by SAE Standard (J3016) level 4 definition by Year 3[... read more](https://media.gm.com/media/us/en/gm/home.detail.html/content/Pages/news/us/en/2017/apr/0405-autodrive.html)
+
+#### By Chris Bonelli of General Motors

@@ -1,0 +1,27 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://a3.ncat.edu
+title: Aggies Autonomous Auto
+email: ccannon1@aggies.ncat.edu
+author: Chris Cannon
+description: Aggies' Autonomous Auto is a student-driven research team at North Carolina Agricultural and Technical State University. We compete in the AutoDrive Challenge competition presented by SAE.
+copyright: 'Copyright &copy; 2017 North Carolina A&T State University. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: facebook
+    url: https://facebook.com/ncata3

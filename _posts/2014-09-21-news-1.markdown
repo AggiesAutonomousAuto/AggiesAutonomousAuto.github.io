@@ -1,0 +1,10 @@
+---
+layout: default
+img: hbcu-digest.png
+category: News
+title: Five HBCUs Ready to Work on Self-Driving Cars
+description: |
+---
+  Ridesharing company Lyft has announced plans to partner with online credentialing and nanodegree company Udacity to begin offering scholarships to learners who want to develop self-driving cars[... read more](https://www.hbcudigest.com/five-hbcus-ready-to-work-on-self-driving-cars/)
+
+#### By JL Carter Sr of HBCU Digest
