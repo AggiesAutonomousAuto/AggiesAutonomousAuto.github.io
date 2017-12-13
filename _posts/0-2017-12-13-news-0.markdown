@@ -1,0 +1,10 @@
+---
+layout: default
+img: yakima.png
+category: News
+title: Yakima welcomed as newest A3 Sponsor
+description: |
+---
+  Aggies Autonomous Auto's Mechanical Design team is pleased to welcome Yakima as the newest sponsor. Yakima generously provided a Jetstream Crossbar and necessary mounting hardware. NC A&T and the A3 team are grateful for Yakima's support!
+
+#### By Chris Cannon, Aggies Autonomous Auto
